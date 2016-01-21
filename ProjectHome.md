@@ -1,0 +1,1 @@
+Ein Web Interface für den Teamspeak3 Server. Für eine einfachere Administration!
